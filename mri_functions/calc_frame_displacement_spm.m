@@ -16,7 +16,7 @@
 %   rpDisp      - M x N matrix of the same size as rpMat with scan-to-scan
 %                 change in motion of the six parameters. Translaation
 %                 parameters are in mm and rotation parameters are in
-%                 degrees. 
+%                 radians. 
 %   mmDisp      - Same as fwMat_deg, but both translation and rotation
 %                 parameters are in mm. 
 %   fwDisp      - M x 1 column vector with framewise displacement measure.
